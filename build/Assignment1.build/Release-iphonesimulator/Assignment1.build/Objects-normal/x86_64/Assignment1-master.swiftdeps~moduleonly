@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "75ccd24e170a995396bbd7f319d724b4"
+build_time: [1606752892, 741950000]
+inputs:
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/VC/History.swift": [9223372036, 854775807]
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/VC/Reset.swift": [9223372036, 854775807]
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/VC/ViewController.swift": [9223372036, 854775807]
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/VC/OrderDetails.swift": [9223372036, 854775807]
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/M/TicketApp.swift": [9223372036, 854775807]
+  "/Users/user182271/Desktop/A1/Assignment1/Assignment1/VC/Manager.swift": [9223372036, 854775807]
